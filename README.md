@@ -13,19 +13,6 @@ Execució ràpida dels diferents exemples i resolusions de problemes
 run.sh  cat.iesesteveterradas.Main
 ```
 
-## Compilació i funcionament ##
-
-### Execució senzilla ###
-
-#### Windows ####
-```bash
-.\run.ps1 <cat.iesesteveterradas.PR210Honor>
-```
-#### Linux ####
-```bash
-run.sh <cat.iesesteveterradas.PR210Honor>
-```
-
 ### Execució pas a pas ###
 
 Si prefereixes executar el projecte pas a pas, pots seguir les següents instruccions:
